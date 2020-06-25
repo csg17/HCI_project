@@ -9,7 +9,9 @@ To resolve lack of interaction between teachers and students,  we aim to raise s
 ## 2. Usage
 
 ### 1. git에서 해당되는 소스파일을 clone 해온다.
+```bash
 git clone https://github.com/csg17/HCI
+```
 
 ### 2. 사용한 오픈소스 github주소에 들어가서 필요한 것들을 다운받는다.
   1. https://github.com/jaredvasquez/CNN-HowManyFingers
